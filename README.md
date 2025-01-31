@@ -1,2 +1,2 @@
 # Product_Categorization
-This machine learning project uses the pricerunner file to analyze products and their respective categories to predict categories for new products within the system.
+This machine learning project uses the price runner file to create a machine learning program that predicts categories for new products within the system.
